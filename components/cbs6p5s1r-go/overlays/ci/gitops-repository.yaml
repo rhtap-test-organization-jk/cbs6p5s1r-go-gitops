@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: cbs6p5s1r-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/cbs6p5s1r-go-gitops
